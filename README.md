@@ -8,12 +8,14 @@ This repository consists of source code for an Android app as well as Arduino co
 
 Requirements
 
-Arduino Development Board
-HC-05 or HC-06 Bluetooth Module
-5V DC / 220V AC Relays
-Android Bluetooth Device
-Connecting Wires
+1.Arduino Development Board
+2.HC-05 or HC-06 Bluetooth Module
+3.5V DC / 220V AC Relays
+4.Android Bluetooth Device
+5.Connecting Wires
+
 Steps to setup Arduino
+
 Upload the arduin code in repository root to Arduino controller
 Connect PIN 11(TX) pin of Arduino to RX pin of HC-05
 Connect PIN 10(RX) pin of Arduino to TX pin of HC-05
@@ -23,7 +25,7 @@ Connect IN of relay to PIN 13 of Arduino board(you are free to use any pin and a
 Connect 220V AC Line to Pole and Load(appliance) to NO of the relay
 Power the Arduino board and you're ready to use. Refer to circuit diagram for setup
 Circuit Diagram
-curcuit diagram
+Markdown ![](circuit.png)
 
 How to use
 
