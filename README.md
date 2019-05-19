@@ -25,11 +25,11 @@ This repository consists of source code for an Android app as well as Arduino co
 <li>Connect 220V AC Line to Pole and Load(appliance) to NO of the relay</li>
 <li>Power the Arduino board and you're ready to use. </li>
   </ol><br> <br>
-<h5>Refer to circuit diagram for setup<h5>
+<h5>Refer to circuit diagram for setup</h5>
 <h4>Circuit Diagram</h4><br>
 ![](circuit.png)
 <br>
-<h4>How to use<h4>
+<h4>How to use</h4>
 <br>
  <ul>
 <li>Build an install the app on an Android Bluetooth device.</li>
@@ -37,10 +37,10 @@ This repository consists of source code for an Android app as well as Arduino co
 <li>Open the app, click on select conntroller and select the HC-05</li>
 <li>Use ON/OFF buttons to control the appliance</li>
 </ul><br>
-<h4>Purpose<h4>
+<h4>Purpose</h4>
 Mini Project for Bachelor of Technology,
 
 
-<h4>Developed by<h4>
+<h4>Developed by</h4>
 
 <u>Team Consol Dot Log</u>
