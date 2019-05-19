@@ -1,11 +1,13 @@
 # IOT_java_project
 Bluetooth-Home-Automation
 Description
+
 A solution to control home appliances using a Bluetooth device(Android Smartphone).
 
 This repository consists of source code for an Android app as well as Arduino configuration.
 
 Requirements
+
 Arduino Development Board
 HC-05 or HC-06 Bluetooth Module
 5V DC / 220V AC Relays
@@ -24,6 +26,7 @@ Circuit Diagram
 curcuit diagram
 
 How to use
+
 Build an install the app on an Android Bluetooth device.
 Turn Bluetooth ON and pair with HC-05 using passcode 1234 (default passcode, you are free to change)
 Open the app, click on select conntroller and select the HC-05
@@ -33,4 +36,5 @@ Mini Project for Bachelor of Technology,
 
 
 Developed by
+
 Team Consol Dot Log
