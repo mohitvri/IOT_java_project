@@ -27,7 +27,7 @@ This repository consists of source code for an Android app as well as Arduino co
   </ol><br> <br>
 <h5>Refer to circuit diagram for setup</h5>
 <h4>Circuit Diagram</h4><br>
-Markdown![](circuit.png)
+<img src="circuit.png"/>
 <br>
 <h4>How to use</h4>
 <br>
