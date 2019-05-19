@@ -29,12 +29,8 @@ Turn Bluetooth ON and pair with HC-05 using passcode 1234 (default passcode, you
 Open the app, click on select conntroller and select the HC-05
 Use ON/OFF buttons to control the appliance
 Purpose
-Mini Project for Bachelor of Technology, CVR College of Engineering, Hyderabad
+Mini Project for Bachelor of Technology,
 
-License
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-Any copyright is dedicated to the Public Domain. http://creativecommons.org/publicdomain/zero/1.0/
 
 Developed by
 Team Consol Dot Log
